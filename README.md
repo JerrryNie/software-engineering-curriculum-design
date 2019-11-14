@@ -1,4 +1,5 @@
 # software-engineering-curriculum-design
+## 主设计师：琦琦julao (如需预约设计，请联系：https://github.com/lostcake)
 ### 登录界面
 ![image](https://github.com/JerrryNie/software-engineering-curriculum-design/blob/master/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90/%E5%8E%9F%E5%9E%8B/%E5%9B%B4%E6%A3%8B%E7%95%8C%E9%9D%A2/%E7%99%BB%E5%BD%95.png)
 ### 注册界面
